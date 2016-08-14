@@ -1,4 +1,7 @@
 # Project 3: Unsupervised Learning
+
+Tao's report for the third project of Udacity's Machine Learning Engineer Nanodegree.
+
 ## Creating Customer Segments
 
 ### Install
